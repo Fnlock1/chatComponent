@@ -64,6 +64,7 @@ body{
     margin-top: 20px;
     margin-left: 10px;
     font-size: 14px;
+    margin-right: 10px;
 }
 
 .end{
